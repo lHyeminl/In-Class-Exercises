@@ -18,10 +18,7 @@ public class CardDealer
         
         Card value = new Card("Clbs",10);
         value.setSuit("Hearts"); 
-        
-        Card choose = new Card("clbs",7);
-        choose.setSuit("Spades");
-        
+                      
         // actually I'm not sure about new codes..
     }
 }
